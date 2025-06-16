@@ -1,0 +1,5 @@
+﻿  E-Gradebook.cpp
+C:\Users\A\OneDrive\Работен плот\E-Gradebook\E-Gradebook\E-Gradebook.cpp(46,13): warning C4566: character represented by universal-character-name '\U0001F393' cannot be represented in the current code page (1252)
+C:\Users\A\OneDrive\Работен плот\E-Gradebook\E-Gradebook\E-Gradebook.cpp(46,13): warning C4566: character represented by universal-character-name '\U0001F4D8' cannot be represented in the current code page (1252)
+  report_utils.cpp
+  E-Gradebook.vcxproj -> C:\Users\A\OneDrive\Работен плот\E-Gradebook\x64\Debug\E-Gradebook.exe
